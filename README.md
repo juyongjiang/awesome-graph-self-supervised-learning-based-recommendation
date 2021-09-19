@@ -20,6 +20,8 @@ Markdown Format:
 
 * [Papers](#papers)
   * [Surveys](#surveys) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018-](#2018)
+* [SSL-based Recommendation](#Self-Supervised-based  Recommendation)
+  * [2021](#2021) | [2020](#2020)
 
 ## Papers
 
@@ -38,13 +40,49 @@ Markdown Format:
   *IEEE Transactions on Neural Networks and Learning Systems 2020*
 
 ### 2021
+* HCGR: Hyperbolic Contrastive Graph Representation Learning for Session-based Recommendation [[PDF]](https://arxiv.org/abs/2107.05366)
+
+  Naicheng Guo, Xiaolei Liu, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Bing Han, Lin Zheng, Kaixin Gao, Xiaobo Guo
+
+  *arXiv 2021*
+
+* Self-Supervised Graph Co-Training for Session-based Recommendation [[PDF]](https://arxiv.org/abs/2108.10560)
+
+  Xin Xia, Hongzhi Yin, Junliang Yu, Yingxia Shao, Lizhen Cui
+
+  *CIKM 2021*
+
+* Self-supervised Graph Learning for Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3404835.3462862?casa_token=FRle0kG9Q1oAAAAA:MnrL-4zDJHIXlPxilVgSZ8d24i1t7SaEOIeSMvPa0q5Z3RavCzitttSBNgqj6CTwiizd5bN3EHsbqQ)
+
+  Wu, Jiancan, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie.
+
+  *SIGIR 2021* 
+
 * Sequential Recommendation with Graph Neural Networks [[PDF]](https://dl.acm.org/doi/abs/10.1145/3404835.3462968?casa_token=oEK41kDW83MAAAAA:dimSPuv3CybEDXEDOVICgK-NSG1YHBjHKlEGTnjdOS-NyxcEYWtcziBJx8XO1hpYLvezmT_Uj42NLg)
 
   Chang, Jianxin, Chen Gao, Yu Zheng, Yiqun Hui, Yanan Niu, Yang Song, Depeng Jin, and Yong Li.
 
-  *SIGIR 2021*  
+  *SIGIR 2021* 
+
+* Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-1889.XiaX.pdf)
+  
+  X. Xia, H. Yin, J. Yu, Q. Wang, L. Cui, and X. Zhang
+
+  *AAAI 2021*
+
+* Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[PDF]](https://arxiv.org/abs/2101.06448)
+  
+  J. Yu, H. Yin, J. Li, Q. Wang, N. Q. V. Hung, and X. Zhang
+  
+  *WWW 2021*
 
 ### 2020
+* Target Attentive Graph Neural Networks for Session-based Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401319?casa_token=kEkjeK1SBdoAAAAA:CQKK0j96jDleXCgo7CEkTFMwbDk0llKbxvFtsyCDAbFdcQavKTuoMCfXOv2ds6ntePz9h4nUcUMyfA)
+
+  Yu, Feng, Yanqiao Zhu, Qiang Liu, Shu Wu, Liang Wang, and Tieniu Tan
+
+  *SIGIR 2020* 
+
 * Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3411905?casa_token=9nEwYQRns64AAAAA:Sc45Ih6SmlLLR5FybQnaoWEhUWbX2amHjycLd9v0-9PC6dpP10sRfHMWDstwiCgVbSykesptA6Sa9Q)
   
   Chang, Buru, Gwanghoon Jang, Seoyoon Kim, and Jaewoo Kang
@@ -220,3 +258,42 @@ Markdown Format:
   Rianne van den Berg, Thomas N. Kipf, Max Welling
 
   *arXiv 2017*
+
+## Self-Supervised-based  Recommendation
+### 2021
+* Contrastive Learning for Recommender System [](https://arxiv.org/abs/2101.01317)
+  
+  Zhuang Liu, Yunpu Ma, Yuanxin Ouyang, Zhang Xiong
+  
+  *arXiv 2021*
+
+* Contrastive Learning for Sequential Recommendation [](https://arxiv.org/abs/2010.14395)
+  
+  Xu Xie, Fei Sun, Zhaoyang Liu, Shiwen Wu, Jinyang Gao, Bolin Ding, Bin Cui
+  
+  *arXiv 2021*
+
+* Contrastive Self-supervised Sequential Recommendation with Robust Augmentation [](https://arxiv.org/abs/2108.06479)
+  
+  Zhiwei Liu, Yongjun Chen, Jia Li, Philip S. Yu, Julian McAuley, Caiming Xiong
+  
+  *arXiv 2021*
+
+* Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation [](https://www.ijcai.org/proceedings/2021/0220.pdf)
+  
+  Tong, Xiaohai, Pengfei Wang, Chenliang Li, Long Xia, and Shaozhang Niu
+  
+  *IJCAT 2021*
+
+### 2020
+* S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [](https://dl.acm.org/doi/abs/10.1145/3340531.3411954?casa_token=q2q66TG21UoAAAAA:coz8SYHu25USUEnSYYMfOosX_dUemCqTOIGdVnuJ_9at5cA5NImR5ofLEpdzgE_g6Wii1SZl6diFFg)
+  
+  Zhou, Kun, Hui Wang, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang, and Ji-Rong Wen.
+  
+  *CIKM 2020*
+
+* Self-supervised Learning for Large-scale Item Recommendations [[PDF]](https://arxiv.org/pdf/2007.12865.pdf)
+  
+  Yao, Tiansheng, et al. 
+  
+  *arXiv 2020*
