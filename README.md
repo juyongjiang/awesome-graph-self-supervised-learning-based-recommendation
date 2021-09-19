@@ -21,7 +21,7 @@ Markdown Format:
 * [Graph-based Recommendation](#papers)
   * [Surveys](#surveys) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018-](#2018)
 * [SSL-based Recommendation](#SSL-based-Recommendation)
-  * [2021](#2021#) | [2020](#2020#)
+  * [2021](#2021\#) | [2020](#2020\#)
 
 ## Graph-based Recommendation
 
