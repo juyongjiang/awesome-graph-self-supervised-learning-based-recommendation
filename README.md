@@ -37,6 +37,21 @@ Markdown Format:
   
   *IEEE Transactions on Neural Networks and Learning Systems 2020*
 
+### 2021
+* Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
+
+  K. Sun, Z. Lin, and Z. Zhu
+
+  AAAI 2020  [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/6048/5904), [Code](https://github.com/datake/M3S)]
+
+
+* Strategies for Pre-training Graph Neural Networks
+
+  W. Hu, B. Liu, J. Gomes, M. Zitnik, P. Liang, V. Pande, and J. Leskovec
+
+  ICLR 2020  [[PDF](https://openreview.net/forum?id=HJlWWJSFDH), [Code](https://github.com/snap-stanford/pretrain-gnns/)]
+
+
 ### 2020
 * Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
 
@@ -66,6 +81,20 @@ Markdown Format:
   WWW 2020  [[PDF](https://dl.acm.org/doi/10.1145/3366423.3380112), [Code](https://github.com/zpeng27/GMI)]
 
 ### 2018
+* Deep Graph Infomax
+
+  P. Veličković, W. Fedus, W. L. Hamilton, P. Liò, Y. Bengio, and R. D. Hjelm
+
+  ICLR 2019  [[PDF](https://openreview.net/forum?id=rklz9iAcKQ), [Code](https://github.com/PetarV-/DGI)]
+
+
+* Spatio-Temporal Deep Graph Infomax
+
+  F. L. Opolka, A. Solomon, C. Cangea, P. Veličković, P. Liò, and R. D. Hjelm
+
+  RLGM@ICLR 2019  [[PDF](https://arxiv.org/abs/1904.06316)]
+
+### 2017-
 * Deep Graph Infomax
 
   P. Veličković, W. Fedus, W. L. Hamilton, P. Liò, Y. Bengio, and R. D. Hjelm
