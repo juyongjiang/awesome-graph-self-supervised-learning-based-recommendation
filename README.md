@@ -20,7 +20,7 @@ Markdown Format:
 
 * [Papers](#papers)
   * [Surveys](#surveys) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018-](#2018)
-* [SSL-based Recommendation](#Self-Supervised-based  Recommendation)
+* [Self-Supervised-based Recommendation](#SSL-based-Recommendation)
   * [2021](#2021) | [2020](#2020)
 
 ## Papers
@@ -259,34 +259,34 @@ Markdown Format:
 
   *arXiv 2017*
 
-## Self-Supervised-based  Recommendation
+## SSL-based-Recommendation
 ### 2021
-* Contrastive Learning for Recommender System [](https://arxiv.org/abs/2101.01317)
+* Contrastive Learning for Recommender System [[PDF]](https://arxiv.org/abs/2101.01317)
   
   Zhuang Liu, Yunpu Ma, Yuanxin Ouyang, Zhang Xiong
   
   *arXiv 2021*
 
-* Contrastive Learning for Sequential Recommendation [](https://arxiv.org/abs/2010.14395)
+* Contrastive Learning for Sequential Recommendation [[PDF]](https://arxiv.org/abs/2010.14395)
   
   Xu Xie, Fei Sun, Zhaoyang Liu, Shiwen Wu, Jinyang Gao, Bolin Ding, Bin Cui
   
   *arXiv 2021*
 
-* Contrastive Self-supervised Sequential Recommendation with Robust Augmentation [](https://arxiv.org/abs/2108.06479)
+* Contrastive Self-supervised Sequential Recommendation with Robust Augmentation [[PDF]](https://arxiv.org/abs/2108.06479)
   
   Zhiwei Liu, Yongjun Chen, Jia Li, Philip S. Yu, Julian McAuley, Caiming Xiong
   
   *arXiv 2021*
 
-* Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation [](https://www.ijcai.org/proceedings/2021/0220.pdf)
+* Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation [[PDF]](https://www.ijcai.org/proceedings/2021/0220.pdf)
   
   Tong, Xiaohai, Pengfei Wang, Chenliang Li, Long Xia, and Shaozhang Niu
   
   *IJCAT 2021*
 
 ### 2020
-* S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [](https://dl.acm.org/doi/abs/10.1145/3340531.3411954?casa_token=q2q66TG21UoAAAAA:coz8SYHu25USUEnSYYMfOosX_dUemCqTOIGdVnuJ_9at5cA5NImR5ofLEpdzgE_g6Wii1SZl6diFFg)
+* S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3411954?casa_token=q2q66TG21UoAAAAA:coz8SYHu25USUEnSYYMfOosX_dUemCqTOIGdVnuJ_9at5cA5NImR5ofLEpdzgE_g6Wii1SZl6diFFg)
   
   Zhou, Kun, Hui Wang, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang, and Ji-Rong Wen.
   
