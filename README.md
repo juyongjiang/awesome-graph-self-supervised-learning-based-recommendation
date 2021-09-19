@@ -8,11 +8,18 @@ A curated list of awesome Graph-based Recommendation resources. Inspired by:
 * [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers); 
 * [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search); 
 * [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning);
-* [Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs).
+* [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs).
 
-## Contribution
+## Contributing
 
-Feel free to send [pull requests](pulls) to add more links!
+Please, feel free to send [pull requests](pulls) to add more resources!
+Markdown format:
+
+```markdown
+- Paper Name. [[Pdf]](link) [[Code]](link)
+  Author 1, Author 2, and Author 3. 
+  *Conference Year*
+```
 
 ## Table of Contents
 
