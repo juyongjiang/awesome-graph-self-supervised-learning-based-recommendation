@@ -21,7 +21,7 @@ Markdown Format:
 * [Graph-based Recommendation](#papers)
   * [Surveys](#surveys) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018-](#2018)
 * [SSL-based Recommendation](#SSL-based-Recommendation)
-  * [2021](#2021) | [2020](#2020)
+  * [2021](##2021) | [2020](##2020)
 
 ## Graph-based Recommendation
 
@@ -260,7 +260,7 @@ Markdown Format:
   *arXiv 2017*
 
 ## SSL-based-Recommendation
-### 2021
+### #2021
 * Contrastive Learning for Recommender System [[PDF]](https://arxiv.org/abs/2101.01317)
   
   Zhuang Liu, Yunpu Ma, Yuanxin Ouyang, Zhang Xiong
@@ -285,7 +285,7 @@ Markdown Format:
   
   *IJCAT 2021*
 
-### 2020
+### #2020
 * S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3411954?casa_token=q2q66TG21UoAAAAA:coz8SYHu25USUEnSYYMfOosX_dUemCqTOIGdVnuJ_9at5cA5NImR5ofLEpdzgE_g6Wii1SZl6diFFg)
   
   Zhou, Kun, Hui Wang, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang, and Ji-Rong Wen.
