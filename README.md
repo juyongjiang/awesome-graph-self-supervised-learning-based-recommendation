@@ -1,4 +1,4 @@
-# Awesome Graph-based Recommendation
+# Awesome Graph&Self-Supervised-based Recommendation
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/juyongjiang/awesome-graph-based-recommendation?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/juyongjiang/awesome-graph-based-recommendation?color=green&label=Fork)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juyongjiang.awesome-graph-based-recommendation)
 
