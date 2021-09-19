@@ -66,13 +66,13 @@ Markdown Format:
 
 * Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-1889.XiaX.pdf)
   
-  X. Xia, H. Yin, J. Yu, Q. Wang, L. Cui, and X. Zhang
+  Xia, Xin, Hongzhi Yin, Junliang Yu, Qinyong Wang, Lizhen Cui, and Xiangliang Zhang
 
   *AAAI 2021*
 
 * Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[PDF]](https://arxiv.org/abs/2101.06448)
   
-  J. Yu, H. Yin, J. Li, Q. Wang, N. Q. V. Hung, and X. Zhang
+  Yu, Junliang, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, and Xiangliang Zhang
   
   *WWW 2021*
 
