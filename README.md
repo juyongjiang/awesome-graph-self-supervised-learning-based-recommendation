@@ -1,8 +1,8 @@
-# Awesome Graph&SSL Recommendation
+# Awesome Graph & SSL Recommendation
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/juyongjiang/awesome-graph-based-recommendation?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/juyongjiang/awesome-graph-based-recommendation?color=green&label=Fork)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juyongjiang.awesome-graph-based-recommendation)
 
-A curated list of awesome Graph-based Recommendation resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs), and [GNNPapers](https://github.com/juyongjiang/GNNPapers).
+A curated list of awesome Graph & Self-Supervised-based Recommendation resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs), and [GNNPapers](https://github.com/juyongjiang/GNNPapers).
 
 ## Contributing
 
@@ -18,12 +18,12 @@ Markdown Format:
 
 ## Table of Contents
 
-* [Papers](#papers)
+* [Graph-based Recommendation](#papers)
   * [Surveys](#surveys) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018-](#2018)
-* [Self-Supervised-based Recommendation](#SSL-based-Recommendation)
+* [SSL-based Recommendation](#SSL-based-Recommendation)
   * [2021](#2021) | [2020](#2020)
 
-## Papers
+## Graph-based Recommendation
 
 ### Surveys
 
