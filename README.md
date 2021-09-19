@@ -133,8 +133,8 @@ Markdown Format:
 *  Neural Graph Collaborative Filtering [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331267?casa_token=AWNqcjAeFo0AAAAA:YUgQdSPWZOGycyT3Qh7T7GWr7NPR9-nY7G-0efjP9Tg6tAxCsw_m-PFqeSFhd44PZ9JGTwekxlPYig)
    
    Wang, Xiang, Xiangnan He, Meng Wang, Fuli Feng, and Tat-Seng Chua
-
-  *SIGIR 2019*  
+   
+   *SIGIR 2019*  
 
 * STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems [[PDF]](https://arxiv.org/pdf/1905.13129.pdf)
   
@@ -215,7 +215,7 @@ Markdown Format:
 
   *NIPS 2017*
 
-* Graph Convolutional Matrix Completion [paper](https://arxiv.org/abs/1706.02263)
+* Graph Convolutional Matrix Completion [[PDF]](https://arxiv.org/abs/1706.02263)
 
   Rianne van den Berg, Thomas N. Kipf, Max Welling
 
