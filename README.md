@@ -11,7 +11,7 @@ Please, feel free to send [pull requests](https://github.com/juyongjiang/awesome
 Markdown Format:
 
 ```markdown
-- Paper Name. [[Pdf]](link) [[Code]](link)
+- Paper Name. [[PDF]](link) [[Code]](link)
   Author 1, Author 2, and Author 3. 
   *Conference Year*
 ```
@@ -25,16 +25,17 @@ Markdown Format:
 
 ### Surveys
 
-* Self-supervised Learning: Generative or Contrastive
+* Graph Neural Networks in Recommender Systems: A Survey [[PDF]](https://arxiv.org/abs/2011.02260)
 
-  X. Liu, F. Zhang, Z. Hou, Z. Wang, L. Mian, J. Zhang, and J. Tang
+  Shiwen Wu, Fei Sun, Wentao Zhang, Bin Cui
 
-  arXiv 2020  [[PDF](https://arxiv.org/abs/2006.08218)]
-* Self-Supervised Learning of Graph Neural Networks: A Unified Review
+  *arXiv 2020*  
 
-  Y. Xie, Z. Xu, Z. Wang, and S. Ji
+* A Comprehensive Survey on Graph Neural Networks [[PDF]](https://arxiv.org/abs/2011.02260)
+
+  Wu, Zonghan, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and S. Yu Philip
   
-  arXiv 2021  [[PDF](https://arxiv.org/abs/2102.10757)]
+  *IEEE Transactions on Neural Networks and Learning Systems 2020*
 
 ### 2020
 * Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
