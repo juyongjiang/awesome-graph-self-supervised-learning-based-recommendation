@@ -2,13 +2,7 @@
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/SXKDZ/awesome-self-supervised-learning-for-graphs?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/SXKDZ/awesome-self-supervised-learning-for-graphs?color=green&label=Fork)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SXKDZ.awesome-self-supervised-learning-for-graphs)
 
-A curated list of awesome Graph-based Recommendation resources. Inspired by:
-* [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision); 
-* [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning);
-* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers); 
-* [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search); 
-* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning);
-* [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs).
+A curated list of awesome Graph-based Recommendation resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), and [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs).
 
 ## Contributing
 
