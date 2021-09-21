@@ -97,6 +97,24 @@ Markdown Format:
 
   *SIGIR 2020* 
 
+* Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction [[PDF]](https://dl.acm.org/doi/abs/10.1145/3366423.3380077)
+  
+  Wang, Wen, Wei Zhang, Shukai Liu, Qi Liu, Bo Zhang, Leyu Lin, and Hongyuan Zha
+
+  *WWW 2020*
+
+* Global Context Enhanced Graph Neural Networks for Session-based Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401142)
+  
+  Wang, Ziyang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, and Minghui Qiu
+  
+  *SIGIR 2020*
+
+* Handling Information Loss of Graph Neural Networks for Session-based Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394486.3403170)
+  
+  Chen, Tianwen, and Raymond Chi-Wing Wong
+
+  *KDD 2020*
+
 * Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3411905?casa_token=9nEwYQRns64AAAAA:Sc45Ih6SmlLLR5FybQnaoWEhUWbX2amHjycLd9v0-9PC6dpP10sRfHMWDstwiCgVbSykesptA6Sa9Q)
   
   Chang, Buru, Gwanghoon Jang, Seoyoon Kim, and Jaewoo Kang
@@ -140,6 +158,18 @@ Markdown Format:
   *ICLR 2020*
 
 ### 2019
+* Graph Contextualized Self-Attention Network for Session-based Recommendation [[PDF]](https://www.ijcai.org/proceedings/2019/0547.pdf)
+
+  Xu, Chengfeng, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, and Xiaofang Zhou
+
+  *IJCAI 2019*
+
+* Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [[PDF]](https://dl.acm.org/doi/abs/10.1145/3357384.3358010)
+  
+  Qiu, Ruihong, Jingjing Li, Zi Huang, and Hongzhi Yin
+
+  *CIKM 2019*
+
 * A Neural Influence Diffusion Model for Social Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331214?casa_token=rXDSv_bfKHsAAAAA:w9OmqhkuU57AmU8oJBpp1mdN3rIvqkj-XAJUIWIvr5jkhzTBED3klzjIFIyGnXTkaOeIB_TL1wGQug)
   
   Wu, Le, Peijie Sun, Yanjie Fu, Richang Hong, Xiting Wang, and Meng Wang
