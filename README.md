@@ -5,7 +5,7 @@
 A curated list of awesome Graph & Self-Supervised-Learning-based Recommendation resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs), and [GNNPapers](https://github.com/juyongjiang/GNNPapers).
 
 ## Introduction
-With the explosive growth of the amount of information on the Internet, recommender systems play a crucial role to alleviate the problem of information overload. The graph-based recommendation is a promising method to capture users' dynamic preferences and complex transitions of items in realistic scenarios. Besides, to eliminate the problem of label scarcity, self-supervised learning (SSL) has been attracted a lot of research attention and achieved remarkable successes in various fields, e.g. visual, natural language processing, and robotics. However, the development of SSL in the recommendation domain is still at a nascent stage. Moreover, due to the complexity of users' dynamic interest patterns and item's various attributes, constructing applicative self-supervision signals can extract more meaningful user behavior patterns and further encode the user and item representations effectively. This vibrant research direction is termed self-supervised learning-based recommendation. This repository provides you with a curated list of awesome Graph & Self-Supervised-Learning-based Recommendation resources. 
+With the explosive growth of the amount of information on the Internet, recommender systems play a crucial role to alleviate the problem of information overload. **The graph-based recommendation is a promising method to capture users' dynamic preferences and complex transitions of items in realistic scenarios**. Besides, to eliminate the problem of label scarcity, self-supervised learning (SSL) has been attracted a lot of research attention and achieved remarkable successes in various fields, e.g. visual, natural language processing, and robotics. However, the development of SSL in the recommendation domain is still at a nascent stage. Moreover, due to the complexity of users' dynamic interest patterns and item's various attributes, constructing applicative self-supervision signals can extract more meaningful user behavior patterns and further encode the user and item representations effectively. This vibrant research direction is termed self-supervised learning-based recommendation. This repository provides you with a curated list of awesome Graph & Self-Supervised-Learning-based Recommendation resources. 
 
 ## Contributing
 
@@ -29,6 +29,12 @@ Markdown Format:
 ## Graph-based Recommendation
 
 ### Surveys
+* Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions [[PDF]](https://arxiv.org/abs/2109.12843)
+  
+  Chen Gao, Yu Zheng, Nian Li, Yinfeng Li, Yingrong Qin, Jinghua Piao, Yuhan Quan, Jianxin Chang, Depeng Jin, Xiangnan He, Yong Li
+
+  *TOIS 2021*
+
 * Graph Learning based Recommender Systems: A Review [[PDF]](https://arxiv.org/abs/2105.06339)
 
   Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Francesco Ricci, Philip S. Yu
