@@ -97,6 +97,18 @@ Markdown Format:
   *WWW 2021*
 
 ### 2020
+* Handling Information Loss of Graph Neural Networks for Session-based Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394486.3403170)
+  
+  Chen, Tianwen, and Raymond Chi-Wing Wong
+
+  *KDD 2020*
+
+* Global context enhanced graph neural networks for session-based recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401142)
+
+  Wang, Ziyang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, and Minghui Qiu
+
+  *SIGIR 2020*
+
 * Target Attentive Graph Neural Networks for Session-based Recommendation [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401319?casa_token=kEkjeK1SBdoAAAAA:CQKK0j96jDleXCgo7CEkTFMwbDk0llKbxvFtsyCDAbFdcQavKTuoMCfXOv2ds6ntePz9h4nUcUMyfA)
 
   Yu, Feng, Yanqiao Zhu, Qiang Liu, Shu Wu, Liang Wang, and Tieniu Tan
@@ -164,6 +176,12 @@ Markdown Format:
   *ICLR 2020*
 
 ### 2019
+* Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [[PDF]](https://dl.acm.org/doi/abs/10.1145/3357384.3358010)
+
+  Qiu, Ruihong, Jingjing Li, Zi Huang, and Hongzhi Yin
+  
+  *CIKM 2019*
+
 * Graph Contextualized Self-Attention Network for Session-based Recommendation [[PDF]](https://www.ijcai.org/proceedings/2019/0547.pdf)
 
   Xu, Chengfeng, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, and Xiaofang Zhou
@@ -311,6 +329,12 @@ Markdown Format:
 
 ## SSL-based-Recommendation
 ### 2021
+* Self-supervised on Graphs: Contrastive, Generative, or Predictive. [[PDF]](https://arxiv.org/abs/2105.07342)
+  
+  Lirong Wu, Haitao Lin, Zhangyang Gao, Cheng Tan, Stan.Z.Li
+
+  *arXiv 2021*
+
 * Contrastive Learning for Recommender System [[PDF]](https://arxiv.org/abs/2101.01317)
   
   Zhuang Liu, Yunpu Ma, Yuanxin Ouyang, Zhang Xiong
@@ -336,6 +360,12 @@ Markdown Format:
   *IJCAT 2021*
 
 ### 2020
+* Self-supervised learning on graphs: Deep insights and new direction [[PDF]](https://arxiv.org/abs/2006.10141)
+  
+  Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang
+
+  *arXiv 2020*
+
 * S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3411954?casa_token=q2q66TG21UoAAAAA:coz8SYHu25USUEnSYYMfOosX_dUemCqTOIGdVnuJ_9at5cA5NImR5ofLEpdzgE_g6Wii1SZl6diFFg)
   
   Zhou, Kun, Hui Wang, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang, and Ji-Rong Wen.
